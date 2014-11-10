@@ -1,0 +1,364 @@
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Resources\basketballnumbers.ttf
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.dll
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.dll
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\DynamicDataDisplay.xml
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.xml
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\enterTime.baml
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Resource Dictionary.baml
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.baml
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\enterTime.g.cs
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Game Start.g.cs
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.g.cs
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Game Start.baml
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csproj.GenerateResource.Cache
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csprojResolveAssemblyReference.cache
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Resources\basketballnumbers.ttf
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.dll
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.dll
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\DynamicDataDisplay.xml
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.xml
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csprojResolveAssemblyReference.cache
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\enterTime.baml
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Resource Dictionary.baml
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.baml
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\enterTime.g.cs
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Game Start.g.cs
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.g.cs
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Game Start.baml
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csproj.GenerateResource.Cache
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Resources\basketballnumbers.ttf
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.dll
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\DynamicDataDisplay.xml
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.xml
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csprojResolveAssemblyReference.cache
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\enterTime.baml
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Resource Dictionary.baml
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.baml
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\enterTime.g.cs
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Game Start.g.cs
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.g.cs
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Game Start.baml
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csproj.GenerateResource.Cache
+D:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\AlbanyLogoSmall.png
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\AlbanyLogoSmall.png
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\BinghamptonLogoSmall.png
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\HartfordLogoSmall.png
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\StonyBrookLogoSmall.png
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UmassLowellLogoSmall.png
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UMBCLogoSmall.png
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UnhLogoSmall.png
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\VermontLogoSmall.png
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\MaineLogoSmall.png
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\AlbanyLogoSmall.png
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\BinghamptonLogoSmall.png
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\HartfordLogoSmall.png
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\StonyBrookLogoSmall.png
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UmassLowellLogoSmall.png
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UMBCLogoSmall.png
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UnhLogoSmall.png
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\VermontLogoSmall.png
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\MaineLogoSmall.png
+I:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\Basketball Probabilites\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\Resources\basketballnumbers.ttf
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\AlbanyLogoSmall.png
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\BinghamptonLogoSmall.png
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\HartfordLogoSmall.png
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\StonyBrookLogoSmall.png
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UmassLowellLogoSmall.png
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UMBCLogoSmall.png
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UnhLogoSmall.png
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\VermontLogoSmall.png
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\MaineLogoSmall.png
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.dll
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.dll
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\DynamicDataDisplay.xml
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.xml
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csprojResolveAssemblyReference.cache
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\enterTime.baml
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\Resource Dictionary.baml
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.baml
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\enterTime.g.cs
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\Game Start.g.cs
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.g.cs
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\Game Start.baml
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Kyle\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csproj.GenerateResource.Cache
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\Resources\basketballnumbers.ttf
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\AlbanyLogoSmall.png
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\BinghamptonLogoSmall.png
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\HartfordLogoSmall.png
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\StonyBrookLogoSmall.png
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UmassLowellLogoSmall.png
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UMBCLogoSmall.png
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UnhLogoSmall.png
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\VermontLogoSmall.png
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\MaineLogoSmall.png
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.dll
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.dll
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\DynamicDataDisplay.xml
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.xml
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\enterTime.baml
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\Resource Dictionary.baml
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.baml
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\enterTime.g.cs
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\Game Start.g.cs
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.g.cs
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\Game Start.baml
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csproj.GenerateResource.Cache
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\Resources\basketballnumbers.ttf
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\AlbanyLogoSmall.png
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\BinghamptonLogoSmall.png
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\HartfordLogoSmall.png
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\StonyBrookLogoSmall.png
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UmassLowellLogoSmall.png
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UMBCLogoSmall.png
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UnhLogoSmall.png
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\VermontLogoSmall.png
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\MaineLogoSmall.png
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.dll
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.dll
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\DynamicDataDisplay.xml
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.xml
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\enterTime.baml
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\Resource Dictionary.baml
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.baml
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\enterTime.g.cs
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\Game Start.g.cs
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.g.cs
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\Game Start.baml
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Kyle\Dropbox\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csproj.GenerateResource.Cache
+C:\Users\Kyle\Documents\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+I:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+I:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+I:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+I:\WpfApplication1\WpfApplication1\bin\Debug\Resources\basketballnumbers.ttf
+I:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\AlbanyLogoSmall.png
+I:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\BinghamptonLogoSmall.png
+I:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\HartfordLogoSmall.png
+I:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\StonyBrookLogoSmall.png
+I:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UmassLowellLogoSmall.png
+I:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UMBCLogoSmall.png
+I:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UnhLogoSmall.png
+I:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\VermontLogoSmall.png
+I:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\MaineLogoSmall.png
+I:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+I:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+I:\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.dll
+I:\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+I:\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.dll
+I:\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.xml
+I:\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+I:\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+I:\WpfApplication1\WpfApplication1\bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+I:\WpfApplication1\WpfApplication1\bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+I:\WpfApplication1\WpfApplication1\bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+I:\WpfApplication1\WpfApplication1\bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+I:\WpfApplication1\WpfApplication1\bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+I:\WpfApplication1\WpfApplication1\bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+I:\WpfApplication1\WpfApplication1\bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+I:\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+I:\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+I:\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csprojResolveAssemblyReference.cache
+I:\WpfApplication1\WpfApplication1\obj\Debug\enterTime.baml
+I:\WpfApplication1\WpfApplication1\obj\Debug\Resource Dictionary.baml
+I:\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.baml
+I:\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+I:\WpfApplication1\WpfApplication1\obj\Debug\enterTime.g.cs
+I:\WpfApplication1\WpfApplication1\obj\Debug\Game Start.g.cs
+I:\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.g.cs
+I:\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+I:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+I:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+I:\WpfApplication1\WpfApplication1\obj\Debug\Game Start.baml
+I:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+I:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+I:\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csproj.GenerateResource.Cache
+I:\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WpfApplication1\WpfApplication1\bin\Debug\Resources\basketballnumbers.ttf
+E:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\AlbanyLogoSmall.png
+E:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\BinghamptonLogoSmall.png
+E:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\HartfordLogoSmall.png
+E:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\StonyBrookLogoSmall.png
+E:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UmassLowellLogoSmall.png
+E:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UMBCLogoSmall.png
+E:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\UnhLogoSmall.png
+E:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\VermontLogoSmall.png
+E:\WpfApplication1\WpfApplication1\bin\Debug\Team Data\America East\MaineLogoSmall.png
+E:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\System.ServiceModel.DomainServices.Client.xml
+E:\WpfApplication1\WpfApplication1\bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+E:\WpfApplication1\WpfApplication1\obj\Debug\enterTime.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\Resource Dictionary.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\enterTime.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\Game Start.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\Starting Window.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\WpfApplication1\WpfApplication1\obj\Debug\Game Start.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csproj.GenerateResource.Cache
+E:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+E:\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+E:\WpfApplication1\WpfApplication1\obj\Debug\Basketball Probabilities (Updated New Graph).csprojResolveAssemblyReference.cache
+E:\WpfApplication1\WpfApplication1\obj\Debug\Introduction.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\Introduction.g.cs
+I:\WpfApplication1\WpfApplication1\obj\Debug\Introduction.baml
+I:\WpfApplication1\WpfApplication1\obj\Debug\Introduction.g.cs

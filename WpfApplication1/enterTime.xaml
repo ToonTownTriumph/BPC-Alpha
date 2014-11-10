@@ -1,0 +1,24 @@
+﻿<Window x:Name="enterTime1" x:Class="WpfApplication1.enterTime"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Left="800"
+        Top="300"
+        Title="Enter Manual Time" MinHeight="109" MinWidth="151.6" Height="122" Width="182.167" ScrollViewer.CanContentScroll="True" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="49*"/>
+            <ColumnDefinition Width="48*"/>
+            <ColumnDefinition Width="49*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="minutesBox" Height="26" Margin="28,24,50,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="/WpfApplication1;component/Resources/#basketballnumbers" TextChanged="minutesBox_TextChanged" KeyDown="minutesBox_KeyDown" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="secondsBox" Height="26" Margin="18,24,2,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="/WpfApplication1;component/Resources/#basketballnumbers" Grid.Column="1" KeyDown="secondsBox_KeyDown" TextChanged="secondsBox_TextChanged"/>
+        <TextBox x:Name="milliBox" Height="26" Margin="8,24,30,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="/WpfApplication1;component/Resources/#basketballnumbers" Grid.Column="2" KeyDown="milliBox_KeyDown" TextChanged="milliBox_TextChanged"/>
+        <Label x:Name="enterTimeLabel" Content="Enter Manual Time" VerticalAlignment="Top" HorizontalContentAlignment="Center" Grid.ColumnSpan="3" Height="26"/>
+        <Label Content=":" VerticalAlignment="Top" HorizontalContentAlignment="Center" Margin="8,24,0,0" FontFamily="/WpfApplication1;component/Behaviors/Fonts/#basketball numbers" Height="26" HorizontalAlignment="Left" Width="12" Grid.Column="1"/>
+        <Label Content=":" VerticalAlignment="Top" HorizontalContentAlignment="Center" Margin="55,24,47,0" FontFamily="/WpfApplication1;component/Behaviors/Fonts/#basketball numbers" Height="26" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Button x:Name="goButton" Content="Go!" Margin="18,55,36,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="20" Click="goButton_Click"/>
+        <Button x:Name="cancelButton" Content="Cancel" Margin="36,55,18,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="20" Grid.Column="1" Click="cancelButton_Click"/>
+        <Label x:Name="messageLabel" Content="(Message Label)" Margin="0,76,0,-5" Grid.ColumnSpan="3" Height="22" VerticalAlignment="Top" ClipToBounds="True" FontSize="10" HorizontalContentAlignment="Center"/>
+
+    </Grid>
+</Window>

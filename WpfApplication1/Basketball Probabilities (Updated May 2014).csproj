@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DEFD347D-60E5-49F2-876D-2D93DFCFFC64}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WpfApplication1</RootNamespace>
+    <AssemblyName>WpfApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>basketball100.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DynamicDataDisplay, Version=0.3.0.0, Culture=neutral, PublicKeyToken=5b7d744a7263923f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Kyle\Documents\DynamicData\DynamicDataDisplay\DynamicDataDisplay.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceModel.DomainServices.Client">
+      <HintPath>C:\Program Files (x86)\Microsoft SDKs\RIA Services\v1.0\Libraries\Silverlight\System.ServiceModel.DomainServices.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Windows.Controls.DataVisualization.Toolkit, Version=3.5.40128.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\WPF Toolkit\v3.5.50211.1\System.Windows.Controls.DataVisualization.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Windows.Forms.DataVisualization.Design" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Graph Elements\DisplayRange.cs" />
+    <Compile Include="enterTime.xaml.cs">
+      <DependentUpon>enterTime.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Game Start.xaml.cs">
+      <DependentUpon>Game Start.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Graph Elements\AwayPercentageCollection.cs" />
+    <Compile Include="Graph Elements\NullMarker.cs" />
+    <Compile Include="Graph Elements\HomePercentageCollection.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Team Data\America East\AlbanyMarker.cs" />
+    <Compile Include="Team Data\America East\UMBCMarker.cs" />
+    <Compile Include="Team Data\America East\VermontMarker.cs" />
+    <Compile Include="Team Data\America East\UNHMarker.cs" />
+    <Compile Include="Team Data\America East\UMassLowellMarker.cs" />
+    <Compile Include="Team Data\America East\StonyBrookMarker.cs" />
+    <Compile Include="Team Data\America East\MaineMarker.cs" />
+    <Compile Include="Team Data\America East\HartfordMarker.cs" />
+    <Compile Include="Team Data\America East\BinghamptonMarker.cs" />
+    <Compile Include="Starting Window.xaml.cs">
+      <DependentUpon>Starting Window.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Graph Elements\ViewportAxesRangeRestriction.cs" />
+    <Page Include="enterTime.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resource Dictionary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+    <Page Include="Game Start.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Starting Window.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <Resource Include="Behaviors\Fonts\basketballnumbers-Regular 4.otf" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Albany150new4.png" />
+    <None Include="Resources\Albany150new3.png" />
+    <None Include="Resources\Albany150new2.png" />
+    <None Include="Resources\Albany150new.png" />
+    <Resource Include="Team Data\America East\unh.png" />
+    <None Include="Resources\unh150new.png" />
+    <None Include="Resources\Albany150.png" />
+    <None Include="Resources\umasslowellnew.png" />
+    <Resource Include="Team Data\America East\umasslowell.png" />
+    <None Include="Resources\umasslowell150.png" />
+    <None Include="Resources\binghamton150.png" />
+    <None Include="Resources\binghamton250.png" />
+    <None Include="Resources\umasslowell.png" />
+    <None Include="Resources\Hartford-Hawks 300.png" />
+    <None Include="Resources\favored heavy.png" />
+    <None Include="Resources\favored.png" />
+    <EmbeddedResource Include="Resources\basketballnumbers.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="Resources\basketballnumbers-Regula 15.ttf" />
+    <None Include="Resources\basketballnumbers-Regular 2.otf" />
+    <None Include="Resources\basketballnumbers-Regular 3.otf" />
+    <None Include="Resources\basketballnumbers-Regular 4.otf" />
+    <None Include="Resources\basketballnumbers-Regular.otf" />
+    <None Include="Resources\downarrow.png" />
+    <None Include="Resources\down1arrow.png" />
+    <None Include="Resources\down2arrows.png" />
+    <None Include="Resources\down3arrows.png" />
+    <None Include="Resources\arrows.png" />
+    <None Include="Resources\arrows neutral.png" />
+    <None Include="Resources\basketball100.png" />
+    <None Include="Resources\basketball.png" />
+    <None Include="Resources\new_wilson.ncaa.basketball.png" />
+    <None Include="Resources\lvl0.png" />
+    <Resource Include="Data Elements\up1arrow.png" />
+    <Resource Include="Data Elements\up2arrows.png" />
+    <Resource Include="Data Elements\up3arrows.png" />
+    <Resource Include="Data Elements\uparrow.png" />
+    <None Include="Resources\up1arrow.png" />
+    <None Include="Resources\up3arrows.png" />
+    <None Include="Resources\up2arrows.png" />
+    <None Include="Resources\uparrow.png" />
+    <None Include="Resources\lvl1hotnew.png" />
+    <None Include="Resources\lvl2hot.png" />
+    <None Include="Resources\lvl3hotnew.png" />
+    <None Include="Resources\lvl5hotnew.png" />
+    <None Include="Resources\lvl4hotnew.png" />
+    <None Include="Resources\lvl2hotnew.png" />
+    <None Include="Resources\lvl5coldnew.png" />
+    <None Include="Resources\lvl4coldnew.png" />
+    <None Include="Resources\lvl3coldnew.png" />
+    <None Include="Resources\lvl2coldnew.png" />
+    <None Include="Resources\lvl1coldnew.png" />
+    <None Include="Resources\fire-icon-large.png" />
+    <None Include="Resources\umasslowell150.bmp" />
+    <None Include="Resources\AmericaEast200.png" />
+    <Resource Include="Team Data\America East\umbc.png" />
+    <None Include="Resources\umbc150.png" />
+    <None Include="Resources\hartford150.png" />
+    <None Include="Resources\unh150.png" />
+    <None Include="Resources\binghampton150.png" />
+    <None Include="Resources\hometeam.png" />
+    <None Include="Resources\awayteam.png" />
+    <None Include="Resources\Albany.png" />
+    <Resource Include="Team Data\America East\vermont.png" />
+    <None Include="Resources\vermont.png" />
+    <None Include="Resources\unh.png" />
+    <None Include="Resources\umbc.png" />
+    <None Include="Resources\seawolves.png" />
+    <None Include="Resources\maine.png" />
+    <None Include="Resources\hartford.png" />
+    <Resource Include="Team Data\America East\hartford.png" />
+    <Resource Include="Team Data\America East\maine.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Team Data\America East\seawolves.png" />
+    <Resource Include="Data Elements\awayteam.png" />
+    <Resource Include="Data Elements\hometeam.png" />
+    <Resource Include="Team Data\America East\AmericaEast200.png" />
+    <Resource Include="Data Elements\fire-icon-large.png" />
+    <Resource Include="Data Elements\lvl1coldnew.png" />
+    <Resource Include="Data Elements\lvl2coldnew.png" />
+    <Resource Include="Data Elements\lvl3coldnew.png" />
+    <Resource Include="Data Elements\lvl4coldnew.png" />
+    <Resource Include="Data Elements\lvl5coldnew.png" />
+    <Resource Include="Data Elements\lvl0.png" />
+    <Resource Include="Data Elements\lvl1hotnew.png" />
+    <Resource Include="Data Elements\lvl2hot.png" />
+    <Resource Include="Data Elements\lvl2hotnew.png" />
+    <Resource Include="Data Elements\lvl3hotnew.png" />
+    <Resource Include="Data Elements\lvl5hotnew.png" />
+    <Resource Include="Data Elements\lvl4hotnew.png" />
+    <Resource Include="Data Elements\down1arrow.png" />
+    <Resource Include="Data Elements\down2arrows.png" />
+    <Resource Include="Data Elements\down3arrows.png" />
+    <Resource Include="Data Elements\downarrow.png" />
+    <Resource Include="Data Elements\basketball100.png" />
+    <Resource Include="Data Elements\arrowsneutral.png" />
+    <Resource Include="Data Elements\favored heavy.png" />
+    <Resource Include="Data Elements\favored.png" />
+    <Resource Include="Team Data\America East\binghampton.png" />
+    <Resource Include="Team Data\America East\Albany.png" />
+    <None Include="Resources\binghamton-university-bearcats-logo.png" />
+    <None Include="Resources\binghamptonchosen.jpg" />
+    <None Include="Resources\binghamptonbutton.jpg" />
+    <None Include="Resources\ualbanychosen.jpg" />
+    <None Include="Resources\ualbanybutton.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajax-loader.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Data Elements\ajax-loader.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Data Elements\lvl0dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lvl0dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\basketball100.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="basketball100.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AlbanyLogoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Team Data\America East\AlbanyLogoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Team Data\America East\BinghamptonLogoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hartford.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HartfordLogoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Team Data\America East\HartfordLogoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homeSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\awaySmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Data Elements\awaySmall.png" />
+    <Resource Include="Data Elements\homeSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VermontLogoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UmassLowellLogoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StonyBrookLogoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UMBCLogoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaineLogoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UnhLogoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Team Data\America East\StonyBrookLogoSmall.png" />
+    <Resource Include="Team Data\America East\UmassLowellLogoSmall.png" />
+    <Resource Include="Team Data\America East\UMBCLogoSmall.png" />
+    <Resource Include="Team Data\America East\UnhLogoSmall.png" />
+    <Resource Include="Team Data\America East\VermontLogoSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Team Data\America East\MaineLogoSmall.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

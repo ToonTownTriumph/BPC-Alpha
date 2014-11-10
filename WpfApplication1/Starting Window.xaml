@@ -1,0 +1,95 @@
+﻿<Window x:Class="WpfApplication1.Starting_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Starting_Window" MinHeight="410" MinWidth="762" Height="410.5" Width="766.5" ResizeMode="NoResize">
+    <Grid x:Name="mainGrid" Margin="0,0,0,-4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="380"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Away" Margin="0,26,86,0" VerticalAlignment="Top" RenderTransformOrigin="0.263,0.192" FontSize="25" Height="43" Grid.Column="1" HorizontalAlignment="Right" Width="70"/>
+        <Button x:Name="ualbanyHome" Content="UAlbany" HorizontalAlignment="Left" Style="{DynamicResource ualbany}" Margin="38,76,0,0" VerticalAlignment="Top" Click="ualbanyHome_Click" Width="172" Height="26" IsEnabled="True"/>
+        <Button x:Name="binghamptonHome" Content="Binghampton" HorizontalAlignment="Left" Margin="38,108,0,0" Style="{DynamicResource binghampton}" VerticalAlignment="Top" Width="172" Height="26" Click="binghamptonHome_Click"/>
+        <Button x:Name="hartfordHome" Content="Hartford" HorizontalAlignment="Left" Margin="38,140,0,0" Style="{DynamicResource hartford}" VerticalAlignment="Top" Width="172" Height="26" Click="hartfordHome_Click"/>
+        <Button x:Name="maineHome" Content="Maine" Style="{DynamicResource maine}" HorizontalAlignment="Left" Margin="38,172,0,0" VerticalAlignment="Top" Width="172" Height="26" Click="maineHome_Click"/>
+        <Button x:Name="umbcHome" Content="UMBC" Style="{DynamicResource umbc}" HorizontalAlignment="Left" Margin="38,204,0,0" VerticalAlignment="Top" Width="172" Height="26" Click="umbcHome_Click"/>
+        <Button x:Name="umasslowellHome" Style="{DynamicResource umasslowell}" Content="UMass Lowell" HorizontalAlignment="Left" Margin="38,236,0,0" VerticalAlignment="Top" Width="172" Height="26" Click="umasslowellHome_Click"/>
+        <Button x:Name="newhampshireHome" Style="{DynamicResource newhampshire}" Content="New Hampshire" HorizontalAlignment="Left" Margin="38,268,0,0" VerticalAlignment="Top" Width="172" Height="26" Click="newhampshireHome_Click"/>
+        <Button x:Name="stonybrookHome" Style="{DynamicResource stonybrook}" Content="Stony Brook" HorizontalAlignment="Left" Margin="38,300,0,0" VerticalAlignment="Top" Width="172" Height="26" Click="stonybrookHome_Click"/>
+        <Button x:Name="vermontHome" Style="{DynamicResource vermont}" Content="Vermont" HorizontalAlignment="Left" Margin="38,332,0,0" VerticalAlignment="Top" Width="172" Height="26" Click="vermontHome_Click"/>
+        <Button x:Name="ualbanyAway" Style="{DynamicResource ualbany}" Content="UAlbany" Margin="0,76,38,0" VerticalAlignment="Top" Height="26" Click="ualbanyAway_Click" Grid.Column="1" HorizontalAlignment="Right" Width="172"/>
+        <Button x:Name="binghamptonAway" Style="{DynamicResource binghampton}" Content="Binghampton" Margin="0,108,38,0" VerticalAlignment="Top" Height="26" Click="binghamptonAway_Click" Grid.Column="1" HorizontalAlignment="Right" Width="172"/>
+        <Button x:Name="hartfordAway" Style="{DynamicResource hartford}" Content="Hartford" Margin="0,140,38,0" VerticalAlignment="Top" Height="26" Click="hartfordAway_Click" Grid.Column="1" HorizontalAlignment="Right" Width="172"/>
+        <Button x:Name="maineAway" Content="Maine" Style="{DynamicResource maine}" Margin="0,172,38,0" VerticalAlignment="Top" Height="26" Click="maineAway_Click" Grid.Column="1" HorizontalAlignment="Right" Width="172"/>
+        <Button x:Name="umbcAway" Style="{DynamicResource umbc}" Content="UMBC" Margin="0,204,38,0" VerticalAlignment="Top" Height="26" Click="umbcAway_Click" Grid.Column="1" HorizontalAlignment="Right" Width="172"/>
+        <Button x:Name="umasslowellAway" Style="{DynamicResource umasslowell}" Content="UMass Lowell" Margin="0,236,38,0" VerticalAlignment="Top" Height="26" Click="umasslowellAway_Click" Grid.Column="1" HorizontalAlignment="Right" Width="172"/>
+        <Button x:Name="newhampshireAway" Style="{DynamicResource newhampshire}" Content="New Hampshire" Margin="0,268,38,0" VerticalAlignment="Top" Height="26" Click="newhampshireAway_Click" Grid.Column="1" HorizontalAlignment="Right" Width="172"/>
+        <Button x:Name="stonybrookAway" Style="{DynamicResource stonybrook}" Content="Stony Brook" Margin="0,300,38,0" VerticalAlignment="Top" Height="26" Click="stonybrookAway_Click" Grid.Column="1" HorizontalAlignment="Right" Width="172"/>
+        <Button x:Name="vermontAway" Style="{DynamicResource vermont}" Content="Vermont" Margin="0,332,38,0" VerticalAlignment="Top" Height="26" Click="vermontAway_Click" Grid.Column="1" HorizontalAlignment="Right" Width="172"/>
+        <Label Content="Home" HorizontalAlignment="Left" Margin="84,26,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.263,0.192" FontSize="25" Height="42" Width="78"/>
+        <Image Height="100" Margin="330,8,330,0" VerticalAlignment="Top" Source="Team Data/America East/AmericaEast200.png" Grid.ColumnSpan="2"/>
+        <Label x:Name="messageLabel" Content="(Message Box)" Margin="105,370,105,-13" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.538" HorizontalContentAlignment="Center" BorderThickness="1" Height="28" Grid.ColumnSpan="2"/>
+        <Button x:Name="okButton" Content="Ok" HorizontalAlignment="Left" Margin="340,402,0,-43" VerticalAlignment="Top" Width="28" Height="26" Click="okButton_Click" BorderBrush="Red" BorderThickness="4" Foreground="Black">
+            <Button.CacheMode>
+                <BitmapCache/>
+            </Button.CacheMode>
+        </Button>
+        <Button x:Name="cancelButton" Content="Cancel" HorizontalAlignment="Left" Margin="372,402,0,-43" VerticalAlignment="Top" Width="46" Height="26" Click="cancelButton_Click" Foreground="Black" BorderBrush="Red" BorderThickness="4" Grid.ColumnSpan="2">
+            <Button.CacheMode>
+                <BitmapCache/>
+            </Button.CacheMode>
+        </Button>
+        <Image x:Name="awayTeam" Source="Data Elements/awayteam.png" Margin="17,98,209,0" UseLayoutRounding="True" Grid.Column="1" Height="124" VerticalAlignment="Top"/>
+        <Image x:Name="HomeTeam" Source="Data Elements/hometeam.png" Margin="213,98,17,0" UseLayoutRounding="True" Height="124" VerticalAlignment="Top"/>
+        <Label Content="VS." Margin="359,134,357,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" FontSize="25" Height="42" Grid.ColumnSpan="2" Padding="0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <TextBlock x:Name="loadingLabel" Margin="215,305,215,0" TextWrapping="Wrap" Text="Loading Team Records..." VerticalAlignment="Top" Grid.ColumnSpan="2" Height="39" TextAlignment="Center"/>
+        <Grid x:Name="custominputGrid" Height="129" Margin="244,236,244,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Visibility="Hidden">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <TextBox x:Name="homewinsBox" Style="{DynamicResource TextboxHomeWin}" TextWrapping="Wrap" IsReadOnly="False" Margin="0,41,27,0" Height="22" VerticalAlignment="Top" TextChanged="homewinsBox_TextChanged" KeyDown="homewinsBox_KeyDown" HorizontalAlignment="Right" Width="52"/>
+            <TextBox x:Name="homelossesBox" Style="{DynamicResource TextboxHomeLosses}" TextWrapping="Wrap" IsReadOnly="False" Margin="0,69,27,0" Height="22" VerticalAlignment="Top" TextChanged="homelossesBox_TextChanged" KeyDown="homelossesBox_KeyDown" HorizontalAlignment="Right" Width="52"/>
+            <TextBox x:Name="awaywinsBox" Style="{DynamicResource TextboxAwayWin}" TextWrapping="Wrap" IsReadOnly="False" Margin="27,41,0,0" Height="22" Width="50" HorizontalAlignment="Left" VerticalAlignment="Top" TextChanged="awaywinsBox_TextChanged" KeyDown="awaywinsBox_KeyDown" Grid.Column="1"/>
+            <TextBox x:Name="awaylossesBox" Style="{DynamicResource TextboxAwayLosses}" TextWrapping="Wrap" IsReadOnly="False" Margin="27,69,0,0" Height="22" Width="50" HorizontalAlignment="Left" VerticalAlignment="Top" TextChanged="awaylossesBox_TextChanged" KeyDown="awaylossesBox_KeyDown" Grid.Column="1"/>
+            <TextBlock x:Name="homeTeamRecordText" Margin="33,4,1,0" TextAlignment="Center" TextWrapping="Wrap" Text="Home Team's Record" VerticalAlignment="Top" Height="37"/>
+            <TextBlock x:Name="awayTeamRecordText" Margin="1,4,33,0" TextAlignment="Center" TextWrapping="Wrap" Text="Away Team's Record" VerticalAlignment="Top" Height="37" Grid.Column="1" Width="102"/>
+            <Button x:Name="gobutton" Content="Go!" Margin="10,96,10,0" VerticalAlignment="Top" Height="26" Click="goButton_Click" Grid.Column="1"/>
+            <Button x:Name="loadRecordButton" Content="Load Records" Margin="10,96,10,0" VerticalAlignment="Top" Height="26" Click="loadRecords_Click"/>
+        </Grid>
+        <Grid x:Name="internetGrid" Height="22" Margin="299,343,299,0" VerticalAlignment="Top" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="tryagainButton" Content="Try Again" Margin="0,0,10,0" VerticalAlignment="Bottom" Click="tryagainButton_Click" Height="22"/>
+            <Button x:Name="manualButton" Content="Manual" Margin="10,0,0,0" VerticalAlignment="Top" Click="manualButton_Click" Grid.Column="1" Height="22"/>
+        </Grid>
+        <Grid x:Name="homeRecordsGrid" Height="118" Margin="0,217,39,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="108">
+            <TextBlock x:Name="homeTeamOverall" TextWrapping="Wrap" Text="Home Team Overall Record" VerticalAlignment="Top" Height="32" TextAlignment="Center"/>
+            <TextBlock x:Name="homeTeamConference" Margin="0,59,0,0" TextWrapping="Wrap" Text="Home Team Conference Record" VerticalAlignment="Top" Height="32" TextAlignment="Center"/>
+            <TextBlock x:Name="HomeOverallWinsBox" Margin="0,32,66,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Height="27" TextAlignment="Right" FontSize="24" FontFamily="Arial Black"/>
+            <TextBlock x:Name="HomeConferenceWinsBox" Margin="0,91,66,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Height="27" TextAlignment="Right" FontSize="24" FontFamily="Arial Black"/>
+            <TextBlock x:Name="HomeOverallLossesBox" Margin="66,32,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Height="27" FontSize="24" FontFamily="Arial Black"/>
+            <TextBlock x:Name="HomeConferenceLossesBox" Margin="66,91,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Height="27" FontSize="24" FontFamily="Arial Black"/>
+            <TextBlock x:Name="tick1" Margin="50,30,50,0" TextWrapping="Wrap" Text="-" VerticalAlignment="Top" Height="27" TextAlignment="Center" FontSize="24" FontFamily="Arial Black"/>
+            <TextBlock x:Name="tick2" Margin="50,89,50,0" TextWrapping="Wrap" Text="-" VerticalAlignment="Top" Height="27" TextAlignment="Center" FontSize="24" FontFamily="Arial Black"/>
+        </Grid>
+        <Grid x:Name="awayRecordsGrid" Grid.Column="1" Height="118" Margin="36,217,236,0" VerticalAlignment="Top">
+            <TextBlock x:Name="awayTeamOverall" TextWrapping="Wrap" Text="Away Team Overall Record" VerticalAlignment="Top" Height="32" TextAlignment="Center"/>
+            <TextBlock x:Name="awayTeamConference" Margin="0,59,0,0" TextWrapping="Wrap" Text="Away Team Conference Record" VerticalAlignment="Top" Height="32" TextAlignment="Center"/>
+            <TextBlock x:Name="AwayConferenceWinsBox" Margin="0,91,66,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Height="27" TextAlignment="Right" FontSize="24" FontFamily="Arial Black"/>
+            <TextBlock x:Name="AwayOverallWinsBox" Margin="0,32,66,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Height="27" FontSize="24" FontFamily="Arial Black" TextAlignment="Right"/>
+            <TextBlock x:Name="tick4" Margin="50,89,50,0" TextWrapping="Wrap" Text="-" VerticalAlignment="Top" Height="27" TextAlignment="Center" FontSize="24" FontFamily="Arial Black"/>
+            <TextBlock x:Name="tick3" Margin="50,30,50,0" TextWrapping="Wrap" Text="-" VerticalAlignment="Top" Height="27" TextAlignment="Center" FontSize="24" FontFamily="Arial Black"/>
+            <TextBlock x:Name="AwayConferenceLossesBox" Margin="66,91,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Height="27" FontSize="24" FontFamily="Arial Black"/>
+            <TextBlock x:Name="AwayOverallLossesBox" Margin="66,32,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Height="27" FontSize="24" FontFamily="Arial Black"/>
+        </Grid>
+        <Grid x:Name="homeTeamAwait" Height="70" Margin="303,249,19,0" VerticalAlignment="Top">
+            <TextBlock TextWrapping="Wrap" Text="&lt;&lt;&lt; CHOOSE HOME TEAM" TextAlignment="Right" Margin="-19,0,19,0"/>
+        </Grid>
+        <Grid x:Name="awayTeamAwait" Height="70" Margin="36,249,286,0" VerticalAlignment="Top" Grid.Column="1">
+            <TextBlock TextWrapping="Wrap" Text="&gt;&gt;&gt; CHOOSE AWAY TEAM"/>
+        </Grid>
+    </Grid>
+</Window>
